@@ -1,0 +1,31 @@
+h1 {
+margin-left: 500px;
+color: blue;
+}
+
+p {
+margin-left: 500px;
+
+
+}
+
+.char {
+margin-left: 600px;
+
+}
+
+
+img {
+margin-left: 600px;
+
+}
+
+
+button:hover {
+color: blue;
+
+}
+
+selector {
+  background-image: https://yandex.ru/images/search?img_url=https%3A%2F%2Fcs7.pikabu.ru%2Fpost_img%2F2018%2F05%2F02%2F10%2Fog_og_1525282044235690035.jpg&lr=2&pos=0&rpt=simage&serp_list_type=all&source=serp&text=фото%20спб;
+}
